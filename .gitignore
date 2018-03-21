@@ -104,3 +104,4 @@ ENV/
 .mypy_cache/
 coffeehouse/settings.py
 coffeehouse/settings.py
+coffeehouse/settings.py
